@@ -1,0 +1,4 @@
+^C^C^C^CFailed to load Custom API options for the node "n8n-nodes-base.confluence": Unknown credential name "confluenceCloudOAuth2Api"
+Successfully exported 3 workflows.
+error: pathspec 'backupΓÇ¥' did not match any file(s) known to git
+Everything up-to-date
